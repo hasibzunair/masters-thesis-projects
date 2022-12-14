@@ -7,6 +7,6 @@ A list to all my projects done during and for my Masters.
 3. https://github.com/hasibzunair/synthetic-covid-cxr-dataset, ICML WCB
 4. https://github.com/hasibzunair/synthetic-covid-cxr-gen, SNAM
 5. https://github.com/hasibzunair/sharp-unets, CIBM
-6. https://github.com/Decathlon/decavision, ACM MMSports
+6. https://github.com/Decathlon/decavision, ACM MMSports (MITACS Research Internship)
 
 Thesis is available [here](https://spectrum.library.concordia.ca/id/eprint/988565/).
