@@ -1,4 +1,4 @@
-## My Master thesis project list\
+## Designing Efficient Deep Learning Models for Computer-Aided Medical Diagnosis
 
 A list to all my projects done during and for my Masters.
 
