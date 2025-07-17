@@ -1,5 +1,7 @@
 ## Designing Efficient Deep Learning Models for Computer-Aided Medical Diagnosis
 
+[Link to Thesis](https://spectrum.library.concordia.ca/id/eprint/988565/)
+
 A list to all my projects done during and for my Masters.
 
 1. https://github.com/hasibzunair/adversarial-lesions, PMB
@@ -8,5 +10,3 @@ A list to all my projects done during and for my Masters.
 4. https://github.com/hasibzunair/synthetic-covid-cxr-gen, SNAM
 5. https://github.com/hasibzunair/sharp-unets, CIBM
 6. https://github.com/Decathlon/decavision, ACM MMSports (MITACS Research Internship)
-
-Thesis is available [here](https://spectrum.library.concordia.ca/id/eprint/988565/).
